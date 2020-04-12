@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Photo of nature](file:///Users/laiwei/Desktop/alexandru-acea-oej9QORnjYE-unsplash.jpg)
